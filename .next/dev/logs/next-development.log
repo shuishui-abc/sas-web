@@ -1,0 +1,14 @@
+[00:00:00.896] Server  LOG     ✓ Ready in 565ms
+[00:00:22.128] Server  WARN    Do not add stylesheets using next/head (see <link rel="stylesheet"> tag with href="/css/style.css"). Use Document instead. 
+See more info here: https://nextjs.org/docs/messages/no-stylesheets-in-head-component
+[00:00:22.373] Browser WARN    Do not add stylesheets using next/head (see <link rel="stylesheet"> tag with href="/css/style.css"). Use Document instead. 
+See more info here: https://nextjs.org/docs/messages/no-stylesheets-in-head-component
+[00:16:27.031] Browser WARN    Do not add stylesheets using next/head (see <link rel="stylesheet"> tag with href="/css/style.css"). Use Document instead. 
+See more info here: https://nextjs.org/docs/messages/no-stylesheets-in-head-component
+[00:34:04.982] Server  LOG     ✓ Compiled in 41ms
+[00:34:39.630] Browser WARN    Do not add stylesheets using next/head (see <link rel="stylesheet"> tag with href="/css/style.css"). Use Document instead. 
+See more info here: https://nextjs.org/docs/messages/no-stylesheets-in-head-component
+[00:35:39.221] Browser WARN    Do not add stylesheets using next/head (see <link rel="stylesheet"> tag with href="/css/style.css"). Use Document instead. 
+See more info here: https://nextjs.org/docs/messages/no-stylesheets-in-head-component
+[00:41:35.880] Browser WARN    Do not add stylesheets using next/head (see <link rel="stylesheet"> tag with href="/css/style.css"). Use Document instead. 
+See more info here: https://nextjs.org/docs/messages/no-stylesheets-in-head-component
